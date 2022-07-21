@@ -10,3 +10,4 @@ See it in action : http://codepen.io/juliangarnier/full/BsIih
 
 * Photon : http://photon.attasi.com
 * Chess.js : https://github.com/jhlywa/chess.js
+Orignal Repo : https://github.com/juliangarnier/3D-Hartwig-chess-set
